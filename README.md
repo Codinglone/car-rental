@@ -6,7 +6,7 @@
 
 <p>Credits for the design goes to <a href='https://xpeedstudio.com/'>XpeedStudio</a></p>
 
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://car-rental-zeta-dusky.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
